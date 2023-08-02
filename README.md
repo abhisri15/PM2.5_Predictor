@@ -5,19 +5,19 @@ Welcome to the PM2.5 Predictor project's GitHub repository! This project offers 
 ## Quick Start
 Follow these steps to run the PM2.5 Predictor on your local machine:
 
-### 1. Clone the Repository: Grab your copy of the project by running this command in your terminal:
+1. Clone the Repository: Grab your copy of the project by running this command in your terminal:
 
 ```python
 git clone https://github.com/your-username/pm25-predictor.git
 ```
 
-### 2. Navigate to the Project Directory: Jump into the project folder using:
+2. Navigate to the Project Directory: Jump into the project folder using:
 
 ```python
 cd pm25-predictor
 ```
 
-### 3. Set Up the Environment: Create a virtual environment and install the required packages:
+3. Set Up the Environment: Create a virtual environment and install the required packages:
 
 ```python
 python -m venv venv
@@ -25,18 +25,18 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Run the App: Fire up the Flask application with:
+4. Run the App: Fire up the Flask application with:
 
 ```python
 python app.py
 ```
 
-### 5. Access the App: Open your web browser and go to http://127.0.0.1:5000 to see the PM2.5 Predictor in action.
+5. Access the App: Open your web browser and go to http://127.0.0.1:5000 to see the PM2.5 Predictor in action.
 
 ## How to Use
-### 1. Input Parameters: Enter values for Temperature, Pressure, Rain, and Wind Speed in the designated fields.
+1. Input Parameters: Enter values for Temperature, Pressure, Rain, and Wind Speed in the designated fields.
 
-### 2. Get the Prediction: Click the "Predict" button, and the app will dazzle you with its PM2.5 prediction prowess.
+2. Get the Prediction: Click the "Predict" button, and the app will dazzle you with its PM2.5 prediction prowess.
 
 ## Web Interface
 
